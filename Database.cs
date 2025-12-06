@@ -1,4 +1,4 @@
-using Mono.Data.Sqlite;
+using Microsoft.Data.Sqlite;
 using System.Collections.Generic;
 using System.Data;
 
@@ -10,7 +10,7 @@ namespace PrototipoCuestionario
 
         public Database(string path)
         {
-            _connectionString = "URI=file:" + path;
+            _connectionString = "Data Source=" + path;
         }
 
         private SqliteConnection Open()
