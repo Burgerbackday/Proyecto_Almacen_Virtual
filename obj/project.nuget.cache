@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5qw1U8t0+qc=",
+  "dgSpecHash": "D6i/KYaAqQE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jaels\\downloads\\Proyecto_Almacen_Virtual\\PrototipoCuestionario.csproj",
+  "projectFilePath": "C:\\Users\\Jaels\\Downloads\\Proyecto_Almacen_Virtual\\PREGUNTAS\\PrototipoCuestionario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jaels\\.nuget\\packages\\microsoft.data.sqlite\\10.0.0\\microsoft.data.sqlite.10.0.0.nupkg.sha512",
     "C:\\Users\\Jaels\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.0\\microsoft.data.sqlite.core.10.0.0.nupkg.sha512",

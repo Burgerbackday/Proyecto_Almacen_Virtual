@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jaels\\downloads\\Proyecto_Almacen_Virtual\\PrototipoCuestionario.csproj": {}
+    "C:\\Users\\Jaels\\Downloads\\Proyecto_Almacen_Virtual\\PREGUNTAS\\PrototipoCuestionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jaels\\downloads\\Proyecto_Almacen_Virtual\\PrototipoCuestionario.csproj": {
+    "C:\\Users\\Jaels\\Downloads\\Proyecto_Almacen_Virtual\\PREGUNTAS\\PrototipoCuestionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jaels\\downloads\\Proyecto_Almacen_Virtual\\PrototipoCuestionario.csproj",
+        "projectUniqueName": "C:\\Users\\Jaels\\Downloads\\Proyecto_Almacen_Virtual\\PREGUNTAS\\PrototipoCuestionario.csproj",
         "projectName": "PrototipoCuestionario",
-        "projectPath": "C:\\Users\\Jaels\\downloads\\Proyecto_Almacen_Virtual\\PrototipoCuestionario.csproj",
+        "projectPath": "C:\\Users\\Jaels\\Downloads\\Proyecto_Almacen_Virtual\\PREGUNTAS\\PrototipoCuestionario.csproj",
         "packagesPath": "C:\\Users\\Jaels\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jaels\\downloads\\Proyecto_Almacen_Virtual\\obj\\",
+        "outputPath": "C:\\Users\\Jaels\\Downloads\\Proyecto_Almacen_Virtual\\PREGUNTAS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jaels\\AppData\\Roaming\\NuGet\\NuGet.Config"
