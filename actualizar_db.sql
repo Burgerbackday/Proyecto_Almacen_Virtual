@@ -1,0 +1,9 @@
+-- Agregar nuevos campos a JUGADOR
+ALTER TABLE JUGADOR ADD COLUMN NoControl TEXT;
+ALTER TABLE JUGADOR ADD COLUMN Apellidos TEXT;
+
+-- Agregar nuevo campo a PREGUNTA
+ALTER TABLE PREGUNTA ADD COLUMN Tema TEXT;
+
+-- Agregar nuevo campo a RESPUESTA_JUGADOR
+ALTER TABLE RESPUESTA_JUGADOR ADD COLUMN Acierto BOOLEAN; -- 1 = correcto, 0 = incorrecto
